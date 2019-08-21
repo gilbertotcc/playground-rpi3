@@ -19,3 +19,9 @@ OK
 [...]
 > save_config
 ````
+
+
+## Enabling SSH
+To enable SSH server, `raspi-config` could be used.  To enable the SSH
+server from the menu the corresponding entries are "5 Interfacing
+Options" -> "P2 SSH".
